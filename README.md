@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sasha</h1>
-<h3 align="center">Front End, Full Stack developer</h3>
+<h3 align="center">Full Stack developer</h3>
 
 - 👨‍💻 Part of my pet-projects are available at [https://github.com/sashase/Pet-Projects](https://github.com/sashase/Pet-Projects)
 
